@@ -1,0 +1,5 @@
+Boat: Voyager(seats:10)
+Total Members: 4
+Member Names: Shrutika, Soniya, Prity, Diya
+Payment Method: Online (GPay)
+--------------------------------------------------
